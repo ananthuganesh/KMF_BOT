@@ -1,0 +1,10 @@
+[[yellow]]-------------------------------------------------------
+ϟ I N S T R U C T I O N S -
+-------------------------------------------------------[[reset]]
+[[green]][+][[reset]] GIVE ONLY ONE TARGET A DAY ON TEAM-HUNTER
+[[green]][+][[reset]] RUN THE BOT ON THE SAME NETWORK
+[[green]][+][[reset]] AVOID VPN TO RUN BOT
+[[green]][+][[reset]] TRY TO RUN BOT CONTINUOYSLY
+[[green]][+][[reset]] USE HOOTSUITE APP FOR ACCOUNT SAFTY
+[[green]][+][[reset]] RUN BOT ONLY 15 HOURS
+[[yellow]]-------------------------------------------------------[[reset]]

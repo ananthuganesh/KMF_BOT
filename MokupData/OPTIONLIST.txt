@@ -1,0 +1,9 @@
+[[yellow]]-------------------------------------------------------
+ϟ O P T I O N S -
+-------------------------------------------------------[[reset]]
+[[green]][1][[reset]] TeamHunter               [[green]][6][[reset]] Direct-Message
+[[green]][2][[reset]] Masslooker               [[green]][7][[reset]] Unfollow Non-Followers
+[[green]][3][[reset]] Re-Hashtag               [[green]][8][[reset]] Profile-Scraper
+[[green]][4][[reset]] Infinity-Feedliker       [[green]][9][[reset]] Bot Instructions
+[[green]][5][[reset]] Inshackle                [[green]][10][[reset]] Logout
+[[yellow]]-------------------------------------------------------[[reset]]
