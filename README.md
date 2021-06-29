@@ -25,7 +25,7 @@ For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
 
 ### Installation 
 ```
-git clone https://github.com/project-x8/KMF_BOT
+git clone https://github.com/ananthuganesh/KMF_BOT.git
 ```
 ```
 cd KMF_BOT
