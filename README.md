@@ -51,15 +51,4 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 - Maintainer(s): [Anandhu](https://www.instagram.com/mind________freezer/)
 ---
 # ⚠Warnings
-Copyright (c)2021 Project X
-
-Without Proper Permission limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-(Cyber theft is a part of cybercrime which means theft carried out by ... 
-(IP) theft is defined as theft of material that is copyrighted, the theft of trade)
-
-If we Find! We Will Move Legally ⚖
-
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Instagram, Facebook inc. or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use it at your own risk.
